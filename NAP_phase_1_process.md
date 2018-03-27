@@ -12,7 +12,7 @@
 <br>
 <strong>Highlight: Arts Datathon</strong>
 <br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
-
+<br>
 <strong><h2>Design</strong></h2>
 <strong>General Overview</strong>
 <ul>
@@ -28,7 +28,7 @@
 Workshop Goal: determine what data should be included in NAP with a focused on the Youth Arts Profile. workshop was built around question: What research questions would you want NAP to help answer?
 Research Question Worksheet
 Research Question Analysis / Results [ single PDF / total spreadsheet ] 
-
+<br>
 <strong><h2>Prototype</strong></h2>
 General Overview
 Building an interactive, web-based prototype (iterate / user testing)
@@ -39,7 +39,7 @@ Design Meeting/Presentation to Senior Staff to gather input and ideation for imp
 Highlight: UX in Esri Products
 Data layer density: How to differentiate between so many layers of data. Signal vs. noise.
 Debugging: Web AppBuilder glitches (saving and linking to Web Map)
-
+<br>
 <strong><h2>Share</strong></h2>
 General Overview
 Share the prototype with partners and user focus groups (government, school admin, educators, family, community members) for feedback.
