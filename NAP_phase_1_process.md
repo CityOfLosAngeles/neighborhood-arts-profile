@@ -6,7 +6,7 @@
 <li>Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data</li>
   <li>Gather Project Interest from Stakeholders</li>
   <li>Explore Data-Sharing Partnerships</li>
-  <li>Research Comparable Projects (List in Project Charter)</li>
+  <li>Research Comparable Projects <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ List on Page 7 of Project Charter ]</a> </li>
   <li>Design Meeting Planning</li>
   </ul>
 
@@ -14,13 +14,14 @@
 <br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
 
 <strong><h2>Design</strong></h2>
-General Overview
-Sr. Staff Design Workshop
-Data Selection and Preparation
-Youth indicator formulating and data acquisition and preparation. Adopt and modify indicator definitions based on the collective impact and human development criteria of the project. Gathering, parsing of data tied to each indicator. Testing each dataset with preliminary analysis to ensure datasets are completed and marked up with appropriate metadata. Indicators will be categorized and aggregated to form various dimensions of the eventual Neighborhood Arts Profile.
-Wireframe Web Interface [final wireframes]
-Design NAP logo
-Project Charter [final PDF]
+<strong>General Overview<strong>
+<ul>
+  <li>Sr. Staff Design Workshop</li>
+  <li>Data Selection and Preparation</li>
+<li>Youth indicator Formulating and Data Acquisition and Preparation - adopt and modify indicator definitions based on the collective impact and human development criteria of the project; gather and parse data tied to each indicator; test each dataset with preliminary analysis to ensure datasets are completed and marked up with appropriate metadata; indicators will be categorized and aggregated to form various dimensions of the eventual Neighborhood Arts Profile.</li>
+  <li>Wireframe Web Interface <a href="https://drive.google.com/open?id=1nSvTDXzfkB64kYbMqnYD2q2vgrcsq08f" target="_blank">[ Final Wireframes ]</a> </li>
+<li>Design NAP Logo <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">[ Branding Design Process ]</a>  </li>
+  <li>Create Project Charter <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ Final Project Charter ]</a</li>
 
 Highlight: Sr. Staff Design Workshop
 Workshop Goal: determine what data should be included in NAP with a focused on the Youth Arts Profile. workshop was built around question: What research questions would you want NAP to help answer?
