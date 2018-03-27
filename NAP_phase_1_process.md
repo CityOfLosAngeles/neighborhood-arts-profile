@@ -47,15 +47,17 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 <br>
 <ul>
 <li>Data Layer Density - how to differentiate between so many layers of data (signal vs. noise)</li>
-  <li>Debugging: Web AppBuilder Glitches (saving and linking to web Mmp)</li>
+  <li>Debugging - Web AppBuilder glitches (saving and linking to web Mmp)</li>
 <br>
 <strong><h2>Share</strong></h2>
-General Overview
-Share the prototype with partners and user focus groups (government, school admin, educators, family, community members) for feedback.
-Share results and discuss value of design and data sharing in edu. policy & research
-Communicate taxonomy with related partners and stakeholders
-Include in DCA Newsletter / Social Media Campaign
+  <strong>General Overview</strong>
+<ul>
+  <li>Share prototype with partners and user focus groups (government, school admin, educators, family, community members) for feedback.</li>
+  <li>Share results and discuss value of design and data sharing in education policy & research</li>
+  <li>Communicate taxonomy with related partners and stakeholders</li>
+  <li>Publi announcement in DCA Newsletter and accompanying social media campaign</li>
 
-Highlight: Meeting with Stakeholders
+<strong>Highlight: Meeting with Stakeholders</strong>
+<br>
 City Stakeholders: Mayor’s Economic Development Team, Planning Department, Chief Data Officer (Mayor’s Office)
 Regional Stakeholders: LAUSD, LACAC, CCF (California Community Foundation, LA Counts)
