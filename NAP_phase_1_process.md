@@ -43,6 +43,7 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 <li>Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development</li>
   </ul>
 <br>
+<br>
 <strong>Highlight: UX in Esri Products</strong>
 <br>
 <ul>
@@ -57,7 +58,7 @@ The workshop was successful. The group came up with 35 youth-focused questions o
   <li>Communicate taxonomy with related partners and stakeholders</li>
   <li>Publi announcement in DCA Newsletter and accompanying social media campaign</li>
   </ul>
-
+<br>
 <strong>Highlight: Meeting with Stakeholders</strong>
 <br>
 City Stakeholders: Mayor’s Economic Development Team, Planning Department, Chief Data Officer (Mayor’s Office)
