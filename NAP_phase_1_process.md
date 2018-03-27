@@ -9,7 +9,7 @@
   <li>Research Comparable Projects <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ List on Page 7 of Project Charter ]</a> </li>
   <li>Design Meeting Planning</li>
   </ul>
-
+<br>
 <strong>Highlight: Arts Datathon</strong>
 <br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
 
@@ -21,7 +21,7 @@
 <li>Youth indicator Formulating and Data Acquisition and Preparation - adopt and modify indicator definitions based on the collective impact and human development criteria of the project; gather and parse data tied to each indicator; test each dataset with preliminary analysis to ensure datasets are completed and marked up with appropriate metadata; indicators will be categorized and aggregated to form various dimensions of the eventual Neighborhood Arts Profile.</li>
   <li>Wireframe Web Interface <a href="https://drive.google.com/open?id=1nSvTDXzfkB64kYbMqnYD2q2vgrcsq08f" target="_blank">[ Final Wireframes ]</a> </li>
 <li>Design NAP Logo <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">[ Branding Design Process ]</a>  </li>
-  <li>Create Project Charter <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ Final Project Charter ]</a</li>
+  <li>Create Project Charter <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ Final Project Charter ]</a></li>
     </ul>
 <br>
     <strong>Highlight: Sr. Staff Design Workshop</strong>
