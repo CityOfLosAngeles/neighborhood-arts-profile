@@ -1,6 +1,6 @@
-##NAP PHASE I PROCESS
+<strong><h1>NAP PHASE I PROCESS</strong></h1>
 
-#DISCOVERY
+<strong><h2>DISCOVERY</strong></h2>
 General Overview
 Gather Data 
 Exploration of existing indicators from existing projects. Identification of useful data resources. Pinpoint youth focused data.
@@ -15,7 +15,7 @@ brought together artists, arts admins, educators, students, community advocates,
 33 number of arts-related datasets were cleaned, tagged, and compiled
 Datathon organizing toolkit 
 
-##DESIGN
+<strong><h2>DESIGN</strong></h2>
 General Overview
 Sr. Staff Design Workshop
 Data Selection and Preparation
@@ -29,7 +29,7 @@ Workshop Goal: determine what data should be included in NAP with a focused on t
 Research Question Worksheet
 Research Question Analysis / Results [ single PDF / total spreadsheet ] 
 
-##PROTOTYPE
+<strong><h2>PROTOTYPE</strong></h2>
 General Overview
 Building an interactive, web-based prototype (iterate / user testing)
 Website: Wordpress microsite, using Divi theme with custom CSS 
@@ -40,7 +40,7 @@ Highlight: UX in Esri Products
 Data layer density: How to differentiate between so many layers of data. Signal vs. noise.
 Debugging: Web AppBuilder glitches (saving and linking to Web Map)
 
-##SHARE
+<strong><h2>SHARE</strong></h2>
 General Overview
 Share the prototype with partners and user focus groups (government, school admin, educators, family, community members) for feedback.
 Share results and discuss value of design and data sharing in edu. policy & research
