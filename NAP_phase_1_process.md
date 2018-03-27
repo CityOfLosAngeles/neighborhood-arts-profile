@@ -6,12 +6,12 @@
 <li>Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data</li>
   <li>Gather Project Interest from Stakeholders</li>
   <li>Explore Data-Sharing Partnerships</li>
-  <li>Research Comparable Projects <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ List on Page 7 of Project Charter ]</a> </li>
+  <li>Research Comparable Projects { <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ List on Page 7 of Project Charter</a> ] </li>
   <li>Design Meeting Planning</li>
   </ul>
 <br>
 <strong>Highlight: Arts Datathon</strong>
-<br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
+<br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">Datathon Organizing Toolkit</a> ]  
 <br>
 <strong><h2>Design</strong></h2>
 <strong>General Overview</strong>
