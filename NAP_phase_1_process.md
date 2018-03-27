@@ -43,7 +43,6 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 <li>Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development</li>
   </ul>
 <br>
-<br>
 <strong>Highlight: UX in Esri Products</strong>
 <br>
 <ul>
