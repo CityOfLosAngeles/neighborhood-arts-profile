@@ -22,6 +22,7 @@
   <li>Wireframe Web Interface [ <a href="https://drive.google.com/open?id=1nSvTDXzfkB64kYbMqnYD2q2vgrcsq08f" target="_blank">Final Wireframes</a> ] </li>
 <li>Design NAP Logo [ <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">Branding Design Process</a> ]  </li>
   <li>Create Project Charter [ <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">Final Project Charter</a> ]</li>
+  <li>Data Catalog [ <a href="http://neighborhoodartsprofile.org/research/data/">Available on Website</a> ]</li>
     </ul>
 <br>
     <strong>Highlight: Sr. Staff Design Workshop</strong>
