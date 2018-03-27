@@ -49,7 +49,6 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 <li>Data Layer Density - how to differentiate between so many layers of data (signal vs. noise)</li>
   <li>Debugging - Web AppBuilder glitches (saving and linking to web Mmp)</li>
 </ul>
-<br>
 <strong><h2>Share</strong></h2>
   <strong>General Overview</strong>
 <ul>
