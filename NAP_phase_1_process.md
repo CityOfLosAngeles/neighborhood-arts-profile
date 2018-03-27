@@ -11,7 +11,7 @@
   </ul>
 
 <strong>Highlight: Arts Datathon</strong>
-<br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ Datathon organizing toolkit ] 
+<br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
 
 <strong><h2>Design</strong></h2>
 General Overview
