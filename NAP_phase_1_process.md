@@ -35,13 +35,15 @@ A few days before the workshop, the NAP project team emailed the participants a 
 The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ <a href="https://drive.google.com/open?id=1-xstoeE-lb2l4lKMM8ecQNFHdMnftyRT">Research Question Analysis</a> ]
 <br>
 <strong><h2>Prototype</strong></h2>
-General Overview
-Building an interactive, web-based prototype (iterate / user testing)
-Website: Wordpress microsite, using Divi theme with custom CSS 
-Data Maps: built in Esri ArcGIS Online, iterating on symbology and data groupings in Web Map and Web AppBuilder.
-Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development
-
-Highlight: UX in Esri Products
+<strong>General Overview</strong>
+<ul>
+  <li>Building an Interactive, Web-Based Prototype (iterate / user testing) </li>
+  <li>Website: Wordpress Microsite, using Divi theme with some custom CSS </li> 
+<li>Data Maps: Built in Esri ArcGIS Online - iterating on symbology and data groupings in Web Map and Web AppBuilder
+<li>Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development</li>
+  </ul>
+<br>
+<strong>Highlight: UX in Esri Products</strong>
 Data layer density: How to differentiate between so many layers of data. Signal vs. noise.
 Debugging: Web AppBuilder glitches (saving and linking to Web Map)
 <br>
