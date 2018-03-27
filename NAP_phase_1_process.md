@@ -22,7 +22,7 @@
   <li>Wireframe Web Interface [ <a href="https://drive.google.com/open?id=1nSvTDXzfkB64kYbMqnYD2q2vgrcsq08f" target="_blank">Final Wireframes</a> ] </li>
 <li>Design NAP Logo [ <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">Branding Design Process</a> ]  </li>
   <li>Create Project Charter [ <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">Final Project Charter</a> ]</li>
-  <li>Data Catalog [ <a href="http://neighborhoodartsprofile.org/research/data/">Available on Website</a> ]</li>
+  <li>Data Catalog [ <a href="http://neighborhoodartsprofile.org/research/data/" target="_blank">Available on Website</a> ]</li>
     </ul>
 <br>
     <strong>Highlight: Sr. Staff Design Workshop</strong>
@@ -33,7 +33,7 @@ The main goal of the workshop was to determine what data should be included in t
 
 A few days before the workshop, the NAP project team emailed the participants a short document that included several sample questions [ <a href="https://drive.google.com/open?id=1vbR3h9vOxK0CaZscWoVhZIwVpDNIztA5" target="_blank">Research Question Worksheet</a> ]. Staff participants were asked to mark up the document and bring it with them to the workshop. At the workshop, the NAP project team led a design thinking ideation exercise. Each participant was given a specific color stack of post-it notes to write down research questions (one question per note) relevant to their work. After 20 minutes, they were asked to add a sticker to the questions that were youth-focused. 
 
-The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ <a href="https://drive.google.com/open?id=1-xstoeE-lb2l4lKMM8ecQNFHdMnftyRT">Research Question Analysis</a> ]
+The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ <a href="https://drive.google.com/open?id=1-xstoeE-lb2l4lKMM8ecQNFHdMnftyRT" target="_blank">Research Question Analysis</a> ]
 <br>
 <strong><h2>Prototype</strong></h2>
 <strong>General Overview</strong>
