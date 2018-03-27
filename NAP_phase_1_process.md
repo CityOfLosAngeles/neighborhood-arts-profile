@@ -14,7 +14,7 @@
 <br>Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. <a href="https://drive.google.com/open?id=1iKZGpPeeWfqPgJTZFGuKmD9a1Rx2z7Kc" target="_blank">[ Datathon Organizing Toolkit ]</a>  
 
 <strong><h2>Design</strong></h2>
-<strong>General Overview<strong>
+<strong>General Overview</strong>
 <ul>
   <li>Sr. Staff Design Workshop</li>
   <li>Data Selection and Preparation</li>
@@ -22,7 +22,7 @@
   <li>Wireframe Web Interface <a href="https://drive.google.com/open?id=1nSvTDXzfkB64kYbMqnYD2q2vgrcsq08f" target="_blank">[ Final Wireframes ]</a> </li>
 <li>Design NAP Logo <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">[ Branding Design Process ]</a>  </li>
   <li>Create Project Charter <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ Final Project Charter ]</a</li>
-
+    </ul>
 Highlight: Sr. Staff Design Workshop
 Workshop Goal: determine what data should be included in NAP with a focused on the Youth Arts Profile. workshop was built around question: What research questions would you want NAP to help answer?
 Research Question Worksheet
