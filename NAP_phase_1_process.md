@@ -1,19 +1,17 @@
 <strong><h1>NAP Phase I Process</strong></h1>
 
 <strong><h2>Discovery</strong></h2>
-General Overview
-Gather Data 
-Exploration of existing indicators from existing projects. Identification of useful data resources. Pinpoint youth focused data.
-Gather Project Interest from stakeholders
-Explore data-sharing partnerships
-Research comparable projects (List in Project Charter)
-Design Meeting Planning
+<strong>General Overview</strong>
+<ul>
+<li>Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data</li>
+  <li>Gather Project Interest from Stakeholders</li>
+  <li>Explore Data-Sharing Partnerships</li>
+  <li>Research Comparable Projects (List in Project Charter)</li>
+  <li>Design Meeting Planning</li>
+  </ul>
 
-Highlight: Arts Datathon
-150 participants, speakers, volunteers, and observers
-brought together artists, arts admins, educators, students, community advocates, researchers, professionals in culture
-33 number of arts-related datasets were cleaned, tagged, and compiled
-Datathon organizing toolkit 
+<strong>Highlight: Arts Datathon</strong>
+Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ Datathon organizing toolkit ] 
 
 <strong><h2>Design</strong></h2>
 General Overview
