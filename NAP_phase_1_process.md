@@ -23,7 +23,8 @@
 <li>Design NAP Logo <a href="https://drive.google.com/open?id=1T-TOmCMHmQPNCGUP_IEfkv1gRTO7-08H" target="_blank">[ Branding Design Process ]</a>  </li>
   <li>Create Project Charter <a href="https://drive.google.com/open?id=1pEePDhbQ-LntsqSKYNGQUbB4TB3lNSJ0" target="_blank">[ Final Project Charter ]</a</li>
     </ul>
-Highlight: Sr. Staff Design Workshop
+<br>
+    <strong>Highlight: Sr. Staff Design Workshop</strong>
 Workshop Goal: determine what data should be included in NAP with a focused on the Youth Arts Profile. workshop was built around question: What research questions would you want NAP to help answer?
 Research Question Worksheet
 Research Question Analysis / Results [ single PDF / total spreadsheet ] 
