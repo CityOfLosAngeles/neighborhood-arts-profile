@@ -27,11 +27,11 @@
     <strong>Highlight: Sr. Staff Design Workshop</strong>
     <br>
 On Monday, December 11, 2017, the NAP project team led a design workshop with the DCA Senior Staff in the DCA headquarters conference room. The eight participants represented each of the six divisions (Community Arts, General Administration, Grantmaking, Marketing & Development, Performing Arts, and Public Art) and the General Manager’s Office. Actively involving the main users of this tool, DCA staff, in the design process helps ensure the end result meets their needs and produce outcomes that are usable, relevant, and sustainable. This concept is core to participatory user-centered design.
-</br>
+
 The main goal of the workshop was to determine what data should be included in the NAP with a focus on the phase 1 development of the Youth Arts Profile. To achieve this goal, the design workshop was built around the question: What research questions would you want the NAP to help answer?
-</br>
+
 A few days before the workshop, the NAP project team emailed the participants a short document that included several sample questions. Staff participants were asked to mark up the document and bring it with them to the workshop. At the workshop, the NAP project team led a design thinking ideation exercise. Each participant was given a specific color stack of post-it notes to write down research questions (one question per note) relevant to their work. After 20 minutes, they were asked to add a sticker to the questions that were youth-focused. 
-</br>
+
 The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases.
 <br>
 <strong><h2>Prototype</strong></h2>
