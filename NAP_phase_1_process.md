@@ -44,8 +44,10 @@ The workshop was successful. The group came up with 35 youth-focused questions o
   </ul>
 <br>
 <strong>Highlight: UX in Esri Products</strong>
-Data layer density: How to differentiate between so many layers of data. Signal vs. noise.
-Debugging: Web AppBuilder glitches (saving and linking to Web Map)
+<br>
+<ul>
+<li>Data Layer Density - how to differentiate between so many layers of data (signal vs. noise)</li>
+  <li>Debugging: Web AppBuilder Glitches (saving and linking to web Mmp)</li>
 <br>
 <strong><h2>Share</strong></h2>
 General Overview
