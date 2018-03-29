@@ -1,7 +1,7 @@
 # City of Los Angeles Department of Cultural Affairs
 ## Neighborhood Arts Profile
 
-This is a versioned repository of software and design associated with the Neighborhood Arts Profile (NAP), a project of the City of Los Angeles Department of Cultural Affairs (DCA). 
+This is a versioned repository of software and design associated with the Neighborhood Arts Profile (NAP), a project of the [City of Los Angeles Department of Cultural Affairs](http://culturela.org/) (DCA). 
 
 The Neighborhood Arts Profile (NAP) is a data tool that identifies opportunities to improve arts and cultural services in the City of Los Angeles. This project is a part of the DCA’s effort in tracking cultural and socioeconomic indicators across all LA neighborhoods. This pursuit of neighborhood-level insights will inform DCA’s place-based strategy toward improving cultural life of neighborhoods throughout LA and building city-wide cultural vibrancy. NAP offers users an access and ability to interpret the complete and up-to-date datasets on arts and culture in each Los Angeles neighborhood. 
 
@@ -19,7 +19,7 @@ Questions or comments about the project repository can be sent to dca.digital@la
 
 ### Attribution
 
-This repository is authored and compiled by Umi Hsu, design strategy lead at DCA and Judy Toretti, designer on the NAP project. This project is made possible through the generous support of the Stuart Foundation, dedicated to improving life outcomes for young people through education.
+This repository is authored and compiled by Umi Hsu, design strategy lead at DCA and Judy Toretti, designer on the NAP project. This project is made possible through the generous support of the [Stuart Foundation](http://stuartfoundation.org/), dedicated to improving life outcomes for young people through education.
 
 ### Licensing
 
