@@ -1,4 +1,4 @@
-<strong><h1>NAP Phase I Process</strong></h1>
+<strong><h1>Phase 1: Process</strong></h1>
 
 <strong><h2>Discovery</strong></h2>
 <strong>General Overview</strong>
