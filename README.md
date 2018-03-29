@@ -19,7 +19,7 @@ Questions or comments about the project repository can be sent to dca.digital@la
 
 ### Attribution
 
-This repository is authored and compiled by Umi Hsu, design strategy lead at DCA and Judy Toretti, designer on the NAP project. This project is made possible through the generous support of the [Stuart Foundation](http://stuartfoundation.org/), dedicated to improving life outcomes for young people through education.
+This repository is authored and compiled by Umi Hsu, design strategy lead at DCA and Judy Toretti, designer on the NAP project. This project is made possible through the generous support of the [Stuart Foundation](http://stuartfoundation.org/).
 
 ### Licensing
 
