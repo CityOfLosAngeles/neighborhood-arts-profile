@@ -9,11 +9,11 @@ This repository was developed to document and share the process of producing NAP
 
 ### Statement of Purpose
 
-This policy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
+This process documentation is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 Using GitHub, the NAP project team continues to track and document the development of this tool. Taking inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/), we adopted the open source practice from software development. Sharing the content, process, and framework of this data project can help further DCA's public mission of access and transparency. 
 
-If your agency is working on a similar data analytics project, fork ours. Submit a pull request if you have idea that could improve data analytics and design throughout the public and arts sector. File an issue ticket if you notice a problem or bug. 
+If your organization is working on a similar data analytics project, fork ours. Submit a pull request if you have idea that could improve data analytics and design throughout the public and arts sector. File an issue ticket if you notice a problem or bug. 
 
 Questions or comments about the project repository can be sent to dca.digital@lacity.org.
 
