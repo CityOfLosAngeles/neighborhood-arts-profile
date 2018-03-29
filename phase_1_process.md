@@ -27,7 +27,8 @@
 <br>
     <strong>Highlight: Sr. Staff Design Workshop</strong>
     <br>
-On Monday, December 11, 2017, the NAP project team led a design workshop with the DCA Senior Staff in the DCA headquarters conference room. The eight participants represented each of the six divisions (Community Arts, General Administration, Grantmaking, Marketing & Development, Performing Arts, and Public Art) and the General Manager’s Office. Actively involving the main users of this tool, DCA staff, in the design process helps ensure the end result meets their needs and produce outcomes that are usable, relevant, and sustainable. This concept is core to participatory user-centered design.
+The NAP project team led a design workshop with the DCA Senior Staff in the DCA headquarters conference room. The eight participants represented each of the six divisions (Community Arts, General Administration, Grantmaking, Marketing & Development, Performing Arts, and Public Art) and the General Manager’s Office. Actively involving the main users of this tool, DCA staff, in the design process helps ensure the end result meets their needs and produce outcomes that are usable, relevant, and sustainable. This concept is core to participatory user-centered design.
+
 
 The main goal of the workshop was to determine what data should be included in the NAP with a focus on the phase 1 development of the Youth Arts Profile. To achieve this goal, the design workshop was built around the question: <i>What research questions would you want the NAP to help answer?</i>
 
