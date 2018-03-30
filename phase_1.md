@@ -33,7 +33,7 @@ The main goal of the workshop was to determine what data should be included in t
   
 Before the workshop, the NAP project team emailed the participants a short document that included several sample questions [ [Research Question Worksheet](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DW1_SampleQuestions_v2.pdf) ]. Staff participants were asked to mark up the document and bring it with them to the workshop. At the workshop, the NAP project team led a design thinking ideation exercise. Each participant was given a specific color stack of post-it notes to write down research questions (one question per note) relevant to their work. After 20 minutes, they were asked to add a sticker to the questions that were youth-focused. 
 
-The workshop was successful. The group came up with 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data and more than half of them were youth-focused. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ [Research Question Analysis](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DesignWorkshop1_Feedback.pdf) ]
+The workshop was successful. The group came up with more than 50 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data and more than half of the questions were youth-focused. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ [Research Question Analysis](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DesignWorkshop1_Feedback.pdf) ]
 
 ## 1.3 Prototype 
 
@@ -55,9 +55,3 @@ The workshop was successful. The group came up with 51 unique research questions
 * Share results and discuss value of design and data sharing in education policy & research
 * Communicate taxonomy with related partners and stakeholders
 * Public announcement in DCA Newsletter and accompanying social media campaign
-
-
-**Highlight: Meeting with Stakeholders**
-
-City Stakeholders: Mayor’s Economic Development Team, Planning Department, Chief Data Officer (Mayor’s Office)
-Regional Stakeholders: LAUSD, LACAC, CCF (California Community Foundation, LA Counts)
