@@ -19,10 +19,10 @@ Over 150 participants, speakers, volunteers, and observers attended the Arts Dat
 * Sr. Staff Design Workshop
 * Data Selection and Preparation
 * Youth indicator Formulating and Data Acquisition and Preparation - adopt and modify indicator definitions based on the collective impact and human development criteria of the project; gather and parse data tied to each indicator; test each dataset with preliminary analysis to ensure datasets are completed and marked up with appropriate metadata; indicators will be categorized and aggregated to form various dimensions of the eventual Neighborhood Arts Profile.
-* Wireframe Web Interface [ Final Wireframes ]
+* Wireframe Web Interface [ [Final Wireframes](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Wireframes.pdf) ]
 * Design NAP Logo [ [ Branding Design Process ](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Branding_Process.pdf) ]
-* Create Project Charter [ Final Project Charter ]
-* Data Catalog [ Available on Website ]
+* Create Project Charter [ [Final Project Charter](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Project_Charter.pdf) ]
+* Data Catalog [ [Available on Website](http://neighborhoodartsprofile.org/research/data/) ]
 
 
 **Highlight: Sr. Staff Design Workshop**
@@ -30,15 +30,15 @@ The NAP project team led a design workshop with the DCA Senior Staff in the DCA 
 
 The main goal of the workshop was to determine what data should be included in the NAP with a focus on the phase 1 development of the Youth Arts Profile. To achieve this goal, the design workshop was built around the question: <i>What research questions would you want the NAP to help answer?
   
-A few days before the workshop, the NAP project team emailed the participants a short document that included several sample questions [ Research Question Worksheet ]. Staff participants were asked to mark up the document and bring it with them to the workshop. At the workshop, the NAP project team led a design thinking ideation exercise. Each participant was given a specific color stack of post-it notes to write down research questions (one question per note) relevant to their work. After 20 minutes, they were asked to add a sticker to the questions that were youth-focused. 
+A few days before the workshop, the NAP project team emailed the participants a short document that included several sample questions [ [Research Question Worksheet](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DW1_SampleQuestions_v2.pdf) ]. Staff participants were asked to mark up the document and bring it with them to the workshop. At the workshop, the NAP project team led a design thinking ideation exercise. Each participant was given a specific color stack of post-it notes to write down research questions (one question per note) relevant to their work. After 20 minutes, they were asked to add a sticker to the questions that were youth-focused. 
 
-The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ Research Question Analysis ]
+The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ [Research Question Analysis](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DesignWorkshop1_Feedback.pdf) ]
 
 ## Prototype 
 
 **General Overview**
 * Building an Interactive, Web-Based Prototype (iterate / user testing)
-* Website: Wordpress Microsite, using Divi theme with some custom CSS [ Neighborhood Arts Profile Website ]
+* Website: Wordpress Microsite, using Divi theme with some custom CSS [ [Neighborhood Arts Profile Website](http://neighborhoodartsprofile.org/) ]
 * Data Maps: Built in Esri ArcGIS Online - iterating on symbology and data groupings in Web Map and Web AppBuilder
 * Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development
 
