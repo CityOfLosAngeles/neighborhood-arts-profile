@@ -9,6 +9,7 @@
 * Research Comparable Projects [ Project Charter ]
 * Design Meeting Planning
 
+
 **Highlight: Arts Datathon**
 Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ Datathon Organizing Toolkit ]  
 
@@ -22,6 +23,7 @@ Over 150 participants, speakers, volunteers, and observers attended the Arts Dat
 * Design NAP Logo [ Branding Design Process ]
 * Create Project Charter [ Final Project Charter ]
 * Data Catalog [ Available on Website ]
+
 
 **Highlight: Sr. Staff Design Workshop**
 The NAP project team led a design workshop with the DCA Senior Staff in the DCA headquarters conference room. The eight participants represented each of the six divisions (Community Arts, General Administration, Grantmaking, Marketing & Development, Performing Arts, and Public Art) and the General Manager’s Office. Actively involving the main users of this tool, DCA staff, in the design process helps ensure the end result meets their needs and produce outcomes that are usable, relevant, and sustainable. This concept is core to participatory user-centered design.
@@ -40,6 +42,7 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 * Data Maps: Built in Esri ArcGIS Online - iterating on symbology and data groupings in Web Map and Web AppBuilder
 * Design Meeting/Presentation to Senior Staff to gather input and ideation for implementation and further development
 
+
 **Highlight: UX in Esri Products**
 * Data Layer Density - how to differentiate between so many layers of data (signal vs. noise)
 * Debugging - Web AppBuilder glitches (saving and linking to web Mmp)
@@ -51,6 +54,7 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 * Share results and discuss value of design and data sharing in education policy & research
 * Communicate taxonomy with related partners and stakeholders
 * Public announcement in DCA Newsletter and accompanying social media campaign
+
 
 **Highlight: Meeting with Stakeholders**
 City Stakeholders: Mayor’s Economic Development Team, Planning Department, Chief Data Officer (Mayor’s Office)
