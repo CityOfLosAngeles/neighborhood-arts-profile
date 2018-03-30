@@ -5,7 +5,7 @@
 **General Overview**
 * Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data
 * Gather Project Interest from Stakeholders
-* Explore Data-Sharing Partnerships
+* Explore Data - Sharing Partnerships
 * Research Comparable Projects [ [Page Seven in Project Charter](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Project_Charter.pdf) ]
 * Design Meeting Planning
 
