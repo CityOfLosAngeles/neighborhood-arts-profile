@@ -6,12 +6,12 @@
 * Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data
 * Gather Project Interest from Stakeholders
 * Explore Data-Sharing Partnerships
-* Research Comparable Projects [ Project Charter ]
+* Research Comparable Projects [ [Page Seven in Project Charter](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Project_Charter.pdf) ]
 * Design Meeting Planning
 
 
 **Highlight: Arts Datathon**
-Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ Datathon Organizing Toolkit ]  
+Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ [Datathon Organizing Toolkit](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Datathon_Report_Toolkit.pdf) ]
 
 ## Design
 
