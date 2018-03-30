@@ -26,6 +26,7 @@ Over 150 participants, speakers, volunteers, and observers attended the Arts Dat
 
 
 **Highlight: Sr. Staff Design Workshop**
+
 The NAP project team led a design workshop with the DCA Senior Staff in the DCA headquarters conference room. The eight participants represented each of the six divisions (Community Arts, General Administration, Grantmaking, Marketing & Development, Performing Arts, and Public Art) and the General Manager’s Office. Actively involving the main users of this tool, DCA staff, in the design process helps ensure the end result meets their needs and produce outcomes that are usable, relevant, and sustainable. This concept is core to participatory user-centered design.
 
 The main goal of the workshop was to determine what data should be included in the NAP with a focus on the phase 1 development of the Youth Arts Profile. To achieve this goal, the design workshop was built around the question: *What research questions would you want the NAP to help answer?*
@@ -57,5 +58,6 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 
 
 **Highlight: Meeting with Stakeholders**
+
 City Stakeholders: Mayor’s Economic Development Team, Planning Department, Chief Data Officer (Mayor’s Office)
 Regional Stakeholders: LAUSD, LACAC, CCF (California Community Foundation, LA Counts)
