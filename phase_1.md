@@ -1,6 +1,6 @@
 # Phase 1
 
-## Discovery
+## 1.1 Discovery
 
 **General Overview**
 * Gather Data - exploration of existing indicators from existing projects; identification of useful data resources; pinpoint youth focused data
@@ -13,7 +13,7 @@
 **Highlight: Arts Datathon**
 Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ [Datathon Organizing Toolkit](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Datathon_Report_Toolkit.pdf) ]
 
-## Design
+## 1.2 Design
 
 **General Overview**
 * Sr. Staff Design Workshop
@@ -34,7 +34,7 @@ A few days before the workshop, the NAP project team emailed the participants a 
 
 The workshop was successful. The group came up with 35 youth-focused questions out of 51 unique research questions. Most questions revolved around cultural assets, demographics, context, and school data. The NAP project team narrow down the data sources to be included in the Phase 1 development based on the research questions articulated by the workshop participants and the availability of the datasets. These questions also to an extent helped the team with the data planning for future phases. [ [Research Question Analysis](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_DesignWorkshop1_Feedback.pdf) ]
 
-## Prototype 
+## 1.3 Prototype 
 
 **General Overview**
 * Building an Interactive, Web-Based Prototype (iterate / user testing)
@@ -47,7 +47,7 @@ The workshop was successful. The group came up with 35 youth-focused questions o
 * Data Layer Density - how to differentiate between so many layers of data (signal vs. noise)
 * Debugging - Web AppBuilder glitches (saving and linking to web Mmp)
 
-## Share
+## 1.4 Share
 
 **General Overview**
 * Share prototype with partners and user focus groups (government, school admin, educators, family, community members) for feedback.
