@@ -20,7 +20,7 @@ Over 150 participants, speakers, volunteers, and observers attended the Arts Dat
 * Data Selection and Preparation
 * Youth indicator Formulating and Data Acquisition and Preparation - adopt and modify indicator definitions based on the collective impact and human development criteria of the project; gather and parse data tied to each indicator; test each dataset with preliminary analysis to ensure datasets are completed and marked up with appropriate metadata; indicators will be categorized and aggregated to form various dimensions of the eventual Neighborhood Arts Profile.
 * Wireframe Web Interface [ Final Wireframes ]
-* Design NAP Logo [ Branding Design Process ]
+* Design NAP Logo [ Branding Design Process ](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Branding_Process.pdf)
 * Create Project Charter [ Final Project Charter ]
 * Data Catalog [ Available on Website ]
 
