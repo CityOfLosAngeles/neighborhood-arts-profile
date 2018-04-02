@@ -11,7 +11,7 @@
 
 
 **Highlight: Arts Datathon**
-Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts adminstrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ [Datathon Organizing Toolkit](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Datathon_Report_Toolkit.pdf) ]
+Over 150 participants, speakers, volunteers, and observers attended the Arts Datathon, which brought together artists, arts administrators, educators, students, community advocates, researchers, and professionals in culture. 33 unique arts-related datasets were cleaned, tagged, and compiled. [ [Datathon Organizing Toolkit](https://github.com/CityOfLosAngeles/neighborhood-arts-profile/blob/master/NAP_Datathon_Report_Toolkit.pdf) ]
 
 ## 1.2 Design
 
